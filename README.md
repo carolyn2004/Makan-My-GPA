@@ -1,5 +1,4 @@
-# Makan-My-GPA
-- A work in progress! Stay Tuned :)
+# Makan-My-GPA (work in progress)
 
 ## Designing Prototype with Figma (Draft 1)
 
